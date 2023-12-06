@@ -26,13 +26,7 @@ struct ContentView: View {
                 }
             }
             .position(x: 100 + width/2 ,y: 100 + height/2)
-        
-        
-//        VStack {
-//            CardComponent(symbolName: "house", title: "Home for Rent", subtitle: "#xxx123456")
-//            CardComponent(symbolName: "car", title: "Car for Rent", subtitle: "#xxx123")
-//            CardComponent(symbolName: "bicycle", title: "Bike for Rent", subtitle: "#xxx23")
-//        }
+    
     }
 }
 
